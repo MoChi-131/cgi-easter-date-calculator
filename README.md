@@ -5,7 +5,7 @@ The backend uses the Meeus/Jones/Butcher algorithm and supports multiple output 
 
 ---
 
-## ✨ Features
+## Features
 
 - Input any valid year
 - Calculates Easter Sunday using a well‑known algorithm
@@ -18,7 +18,7 @@ The backend uses the Meeus/Jones/Butcher algorithm and supports multiple output 
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 You can test the CGI script using Python’s built‑in HTTP server:
 
@@ -29,7 +29,7 @@ You can test the CGI script using Python’s built‑in HTTP server:
 
 ---
 
-## 🧮 Algorithm
+## Algorithm
 
 This project uses the **Meeus/Jones/Butcher algorithm**, a widely accepted method for calculating the date of Easter in the Gregorian calendar.
 
